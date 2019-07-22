@@ -8,7 +8,7 @@ import sys
 import os
 import subprocess
 
-MD_TYPE = "gfm"
+MD_TYPE = "markdown_github"
 SOFFICE = r'/Applications/LibreOffice.app/Contents/MacOS/soffice'
 PANDOC = r'pandoc'
 

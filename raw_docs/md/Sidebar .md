@@ -1,76 +1,75 @@
-  - \[\[홈|홈\]\]
+-   \[\[<span lang="zh-CN">홈</span>|<span lang="zh-CN">홈</span>\]\]
 
-  - \[\[Quorum 알아보기|Quorum 알아보기\]\]
-    
-      - \[\[Quorum 개요|Quorum 개요\]\]
-        
-          - Quorum이란?
-        
-          - 아키텍처
-        
-          - 구성요소
-    
-      - \[\[트랜잭션 처리 및 프라이버시|트랜잭션 처리 및 프라이버시\]\]
-        
-          - 퍼블릭 트랜잭션
-        
-          - 프라이빗 트랜잭션
-        
-          - 트랜잭션 처리
-    
-      - \[\[Quorum합의 알고리즘컨센서스|Quorum합의 알고리즘\]\]
+-   \[\[Quorum <span lang="zh-CN">알아보기</span>|Quorum <span lang="zh-CN">알아보기</span>\]\]
 
-<!-- end list -->
+    -   \[\[Quorum <span lang="zh-CN">개요</span>|Quorum <span lang="zh-CN">개요</span>\]\]
 
-  - Raft 합의 알고리즘
+        -   Quorum<span lang="zh-CN">이란</span>?
 
-<!-- end list -->
+        -   <span lang="zh-CN">아키텍처</span>
 
-  - 이스탄불 BFT 합의 알고리즘
+        -   <span lang="zh-CN">구성요소</span>
 
-\[\[보안 및 네트워크 |보안\]\]
+    -   \[\[<span lang="zh-CN">트랜잭션 처리 및 프라이버시</span>|<span lang="zh-CN">트랜잭션 처리 및 프라이버시</span>\]\]
 
-  -  네트워크 권한
+        -   <span lang="zh-CN">퍼블릭 트랜잭션</span>
 
-  - 엔클레이브(**Enclave)** **암호화 기술**
+        -   <span lang="zh-CN">프라이빗 트랜잭션</span>
 
-<!-- end list -->
+        -   <span lang="zh-CN">트랜잭션 처리</span>
 
-  - 프라이빗키 저장 알고리즘 
+    -   \[\[Quorum<span lang="zh-CN">합의 알고리즘컨센서스</span>|Quorum<span lang="zh-CN">합의 알고리즘</span>\]\]
 
-\[\[셋업하기|셋업하기\]\]
+<!-- -->
 
-  - 셋업 및 퀵 스타트 
+-   Raft <span lang="zh-CN">합의 알고리즘</span>
 
-  - 소스를 통한 Quorum 노드 빌드
+<!-- -->
 
-  - 테스트 실행
+-   <span lang="zh-CN">이스탄불 </span>BFT <span lang="zh-CN">합의 알고리즘</span>
 
-<!-- end list -->
+\[\[<span lang="zh-CN">보안 및 네트워크 </span>|<span lang="zh-CN">보안</span>\]\]
 
-  - Constellation 설치
+-   <span id="_heading=h.gjdgxs"></span> <span lang="zh-CN">네트워크 권한</span>
 
-<!-- end list -->
+-   <span lang="zh-CN">엔클레이브</span>(**Enclave)** <span lang="zh-CN">**암호화 기술**</span>
 
-  - Tessera 설치
+<!-- -->
 
-  - \[\[고급셋업|고급셋업\]\]
+-   <span lang="zh-CN">프라이빗키 저장 알고리즘 </span>
 
-\[\[Quorum 사용하기|Quorum 사용하기\]\]
+\[\[<span lang="zh-CN">셋업하기</span>|<span lang="zh-CN">셋업하기</span>\]\]
 
-  - Quorum 실행
+-   <span lang="zh-CN">셋업 및 퀵 스타트 </span>
 
-<!-- end list -->
+-   <span lang="zh-CN">소스를 통한 </span>Quorum <span lang="zh-CN">노드 빌드</span>
 
-  - 스마트 컨트랙트 개발하기
+-   <span lang="zh-CN">테스트 실행</span>
 
-  - 허가형 네트워크 셋업
+<!-- -->
 
-  - Quorum API
+-   Constellation <span lang="zh-CN">설치</span>
 
-  - ZSL 사용
+<!-- -->
+
+-   Tessera <span lang="zh-CN">설치</span>
+
+-   \[\[<span lang="zh-CN">고급셋업</span>|<span lang="zh-CN">고급셋업</span>\]\]
+
+\[\[Quorum <span lang="zh-CN">사용하기</span>|Quorum <span lang="zh-CN">사용하기</span>\]\]
+
+-   Quorum <span lang="zh-CN">실행</span>
+
+<!-- -->
+
+-   <span lang="zh-CN">스마트 컨트랙트 개발하기</span>
+
+-   <span lang="zh-CN">허가형 네트워크 셋업</span>
+
+-   Quorum API
+
+-   ZSL <span lang="zh-CN">사용</span>
 
 \[\[FAQ|FAQ\]\]
 
-\[\[제품 로드맵|제품 로드맵\]\]
-
+\[\[<span lang="zh-CN">제품 로드맵</span>|<span lang="zh-CN">제품 로드맵</span>\]\]

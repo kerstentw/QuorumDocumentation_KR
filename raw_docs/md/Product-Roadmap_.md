@@ -1,64 +1,66 @@
-## 2018 / 2019년 전망
+2018 / 2019<span lang="zh-CN">년 전망</span>
+--------------------------------------------
 
-#### 프라이버시
+#### <span lang="zh-CN">프라이버시</span>
 
-  - 조직 레벨의 프라이버시 지정 
+-   <span lang="zh-CN">조직 레벨의 프라이버시 지정 </span>
 
-  - 프라이버시가 보장된 자산 이동 (ZKP, Zero Knowledge Proof)
+-   <span lang="zh-CN">프라이버시가 보장된 자산 이동 </span>(ZKP, Zero Knowledge Proof)
 
-  - 프라이빗 컨트랙트 확장성
+-   <span lang="zh-CN">프라이빗 컨트랙트 확장성</span>
 
-  - 프라이빗 스테이트 합의 (동기화 메소드 외에)
+-   <span lang="zh-CN">프라이빗 스테이트 합의 </span>(<span lang="zh-CN">동기화 메소드 외에</span>)
 
-#### 권한
+#### <span lang="zh-CN">권한</span>
 
-  - 두 개의 롤 지원: 읽기 vs 쓰기 노드/계정
+-   <span lang="zh-CN">두 개의 롤 지원</span>: <span lang="zh-CN">읽기 </span>vs <span lang="zh-CN">쓰기 노드</span>/<span lang="zh-CN">계정</span>
 
-  - 스마트 컨트랙트 기반의 네트워크 권한 관리
+-   <span lang="zh-CN">스마트 컨트랙트 기반의 네트워크 권한 관리</span>
 
-  - 인증 및 보호된 RPC API 액세스
+-   <span lang="zh-CN">인증 및 보호된 </span>RPC API <span lang="zh-CN">액세스</span>
 
-  - 합의 노드 화이트리스팅(whitelisting)
+-   <span lang="zh-CN">합의 노드 화이트리스팅</span>(whitelisting)
 
-#### 성능
+#### <span lang="zh-CN">성능</span>
 
-  - 성능 벤치마크 가이드라인
+-   <span lang="zh-CN">성능 벤치마크 가이드라인</span>
 
-  - 트랜잭션 병렬처리 R\&D
+-   <span lang="zh-CN">트랜잭션 병렬처리 </span>R&D
 
-  - EVM 최적화
+-   EVM <span lang="zh-CN">최적화</span>
 
-  - eWASM 지원
+-   eWASM <span lang="zh-CN">지원</span>
 
-#### 복구
+#### <span lang="zh-CN">복구</span>
 
-  - 트랜잭션 매니저 클러스터
+-   <span lang="zh-CN">트랜잭션 매니저 클러스터</span>
 
-  - 손실의 경우를 대비한 트랜잭션 매니저 데이터 자동 복구
+-   <span lang="zh-CN">손실의 경우를 대비한 트랜잭션 매니저 데이터 자동 복구</span>
 
-#### 확장성 및 상호운영성
+#### <span lang="zh-CN">확장성 및 상호운영성</span>
 
-  - Raft 확장성 향상
+-   Raft <span lang="zh-CN">확장성 향상</span>
 
-  - PoA 및 기타 합의 알고리즘
+-   PoA <span lang="zh-CN">및 기타 합의 알고리즘</span>
 
-  - Quorum 간 자산 이동
+-   Quorum <span lang="zh-CN">간 자산 이동</span>
 
-  - 요율 제한 (가스 가격)
+-   <span lang="zh-CN">요율 제한 </span>(<span lang="zh-CN">가스 가격</span>)
 
-#### 도구
+#### <span lang="zh-CN">도구</span>
 
-  - 원클릭 네트워크 배포
+-   <span lang="zh-CN">원클릭 네트워크 배포</span>
 
-  - 향상된 데이터베이스 어댑터
+-   <span lang="zh-CN">향상된 데이터베이스 어댑터</span>
 
-  - 모니터링/로깅(Logging) 툴
+-   <span lang="zh-CN">모니터링</span>/<span lang="zh-CN">로깅</span>(Logging) <span lang="zh-CN">툴</span>
 
-  - 아이디 관리 툴
+-   <span lang="zh-CN">아이디 관리 툴</span>
 
-#### 기타 / 진행중
+#### <span lang="zh-CN">기타 </span>/ <span lang="zh-CN">진행중</span>
 
-  - EEA 규격 컴플라이언스 확인
+-   EEA <span lang="zh-CN">규격 컴플라이언스 확인</span>
 
-  -  geth 업그레이드 사항 통합
+-   <span id="_heading=h.gjdgxs"></span> geth <span lang="zh-CN">업그레이드 사항 통합</span>
+
 
